@@ -1,4 +1,4 @@
-# CSE515-phase1
+# Phase 1 Text and Image Features, Vector Models and Similarity/Distance Measures
 
 **Abstract**
 
